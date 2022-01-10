@@ -34,7 +34,11 @@
     margin-left: 5px;
   }
   .author-title {
+    margin-top: 10px;
     display: inline-block;
     vertical-align: middle;
+    @include breakpoint('small') {
+      margin-top: 0px;
+    }
   }
 }
