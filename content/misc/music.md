@@ -1,6 +1,6 @@
 ---
 title: Music
-# date: 2022-01-09
+date: 2022-01-09
 description: "What I'm listening to."
 # image: images/cctv.jpeg
 ---
