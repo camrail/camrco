@@ -26,7 +26,7 @@ When you go to see someone for help, be they a psychologist, mortgage broker or 
 The problem comes then comes with firstly the queue to do the things (those back exercises), THEN remember what the things actually are (bend over awkwardly 10 times).
 
 ### Tech case
-While there's a semi plausible (but half baked) business case here, the real reason I want to build this app is so I can try out [Supabase](www.supabase.com) and revisit React.  I found out about Supabase while reading [Micro Sass Ideas](www.microsassidea.com) and coming from a purely Python/Django background it has piqued my interest.
+While there's a semi plausible (but half baked) business case here, the real reason I want to build this app is so I can try out [Supabase](www.supabase.com) and revisit React.  I found out about Supabase while reading [Micro Sass Ideas](https://www.microsassidea.com) and coming from a purely Python/Django background it has piqued my interest.
 
 This particular idea is appealing because:
 - It's small
