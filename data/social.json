@@ -1,0 +1,14 @@
+{
+  "links": [
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/camrail",
+      "image": "images/social/linkedin.svg"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/temp5374",
+      "image": "images/social/github.svg"
+    }
+  ]
+}
