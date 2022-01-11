@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Camr .Co / des"
 themesDir = "themes"
 theme = "hugo-winston-theme"
+disqusShortname = 'camr'
 
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
