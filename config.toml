@@ -4,7 +4,6 @@ title = "Camr . co / des"
 themesDir = "themes"
 theme = "hugo-winston-theme"
 disqusShortname = 'camr'
-googleAnalytics = 'G-QFBQYP4817'
 
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
@@ -17,6 +16,7 @@ paginate = 3
     min = "0.55.0"
 
 [params]
+  google_analytics_id = "G-QFBQYP4817"
   twitter_handle = "@none"
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
