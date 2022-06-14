@@ -1,0 +1,11 @@
+<li>
+    <p class="t-timeline-date">{{ .Get "date" }}</p>
+    <div class="t-timeline-content">
+        {{ if (.Get "major-heading") }}
+        <h3>{{ .Get "major-heading" }}</h3>
+        {{ else }}
+        <h4>{{ .Get "heading" }}</h4>
+        {{ end }}
+        <p>{{ .Get "description" }}</p>
+    </div>
+</li>

@@ -6,23 +6,6 @@ image: images/stackup_header.png
 ---
 Stackup Risk began as a side project which was eventually acquired by an end to end financial advice platform.  What started as my first python project and webapp, became a three year journey into financial risk tolerance, psychometrics, SaaS, Django, javascript, devops and everything in between.
 
-# Credits
-### Me:
-- Product Management
-- Development
-- Design (supported by templates)
-- Research & Method (commercialisation)
-- Statistics / Psychometrics
-- Content Creation
-
-
-### Others:
-#### Hunter Holzhauer
-- Research & Method ([Original academic study](https://www.emerald.com/insight/content/doi/10.1108/JRF-04-2016-0054/full/html))
-#### Lizzie Stewart
-- Statistics / Psychometrics
-- Content Creation
-
 # What is it?
 Stackup is a financial risk profiling tool which helps to match investments to an investor's psychology.  Using psychometrics (applied statistics for psychology) we assess how much risk a particular investory is willing to take, so we can then help their financial adviser recommend appropriate assets and avoid the stress and negative wealth implications of owning a portfolio which is 'too' risky.
 
@@ -56,6 +39,62 @@ All on AWS
 - Django Rest Framework
 - Celery
 - Selenium
+
+# Timeline
+{{<timeline>}}
+    {{<timeline-item 
+        date="Mar 2018" 
+        heading="Commercialisation Agreement Struck" 
+        description="Agreement struck with Hunter to develop his PhD thesis into a psychometeric risk profiling application.  Design and development begins." 
+    >}}
+    {{<timeline-item 
+        date="Oct 2018" 
+        major-heading="riskAPP Launched" 
+        description="Application launched.  Fisrt client comes within the month." 
+    >}}
+    {{<timeline-item 
+        date="Feb 2019" 
+        heading="Past Performance Simulation Launched" 
+        description="Long term portfolio returns analysis fearture launched." 
+    >}}
+    {{<timeline-item 
+        date="Apr 2019" 
+        heading="IRESS Xplan and Zapier integration live" 
+        description="Connectivity from the Stackup Risk API to Xplan and Zapier launched." 
+    >}}
+    {{<timeline-item 
+        date="Jun 2019" 
+        heading="ACP (US) deal signed" 
+        description="Alliance of Comprehensive Planners (US) affiliate agreement signed." 
+    >}}
+    {{<timeline-item 
+        date="Apr 2020" 
+        heading="Morgans in principle agreeement reached" 
+        description="In principle agreement reached with Morgans Financial Limited for an enterprise wide 5 year contract." 
+    >}}
+    {{<timeline-item 
+        date="Nov 2020" 
+        major-heading="Stackup Risk acquired by Creativemass" 
+        description="Stackup Risk 100% acquired by Creativemass Holdings Inc to be integrated into WealthConnect." 
+    >}}
+{{</timeline>}}
+
+# Credits
+### My roles:
+- Product Management
+- Development
+- Design (supported by templates)
+- Research & Method (commercialisation)
+- Statistics / Psychometrics
+- Content Creation
+
+
+### Helped by:
+#### Hunter Holzhauer
+- Research & Method ([Original academic study](https://www.emerald.com/insight/content/doi/10.1108/JRF-04-2016-0054/full/html))
+#### Lizzie Stewart
+- Statistics / Psychometrics
+- Content Creation
 
 # Key Components
 ### Questionnaire
