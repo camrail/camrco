@@ -23,3 +23,5 @@ paginate = 3
   showPostsOnHomepage = false
   addFrame = true
   addDot = true
+
+custom_css = ["css/custom.css"]
