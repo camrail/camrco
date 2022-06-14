@@ -1,7 +1,7 @@
 ---
 title: Stackup Risk
-date: 2020-10-10
-description: 'Psychometric Risk Profiling.'
+date: 2020-11-10
+description: 'Psychometric Risk Profiling startup.'
 image: images/stackup_header.png
 ---
 Stackup Risk began as a side project which was eventually acquired by an end to end financial advice platform.  What started as my first python project and webapp, became a three year journey into financial risk tolerance, psychometrics, SaaS, Django, javascript, devops and everything in between.
@@ -15,11 +15,11 @@ Stackup is a financial risk profiling tool which helps to match investments to a
 
 # The stack.
 ### Webapp
-| Language | Files | Lines | % |
+| Language | % | Files | Lines |
 | :--- | ---: | ---: | ---: |
-| Django Template (HTML) | 153 | 42,035 | 65% |
-| Python | 342 | 16,265 | 25% |
-| JavaScript* | 59 | 6,578 | 10% |
+| Django Template (HTML) | 65% | 153 | 42,035 |
+| Python | 25% | 342 | 16,265 |
+| JavaScript* | 10% | 59 | 6,578 | 
 
 *majority is vanilla JS and Jquery, remainder is React.
 

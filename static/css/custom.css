@@ -1,10 +1,9 @@
-/* beter tables */
+/* TABLES */
 table {
     border-collapse: collapse;
     margin: 25px 0;
     font-size: 0.9em;
     font-family: sans-serif;
-    min-width: 400px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
 }
 
@@ -29,6 +28,14 @@ tbody tr:nth-of-type(even) {
 
 tbody tr:last-of-type {
     border-bottom: 2px solid #7b16ff;
+}
+
+/* Hide all columns except first and last on mobile */
+
+@media only screen and (max-width: 800px) {
+    td:not(:first-child):not(:last-child), th:not(:first-child):not(:last-child) {
+        display: none;
+    }
 }
 
 /* Timeline */
