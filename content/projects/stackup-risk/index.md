@@ -1,8 +1,9 @@
 ---
 title: Stackup Risk
-date: 2020-11-10
-description: 'Psychometric Risk Profiling startup.'
+date: 2020-10-10
+description: 'Psychometric Risk Profiling.'
 image: images/stackup_header.png
+tag: personal
 ---
 Stackup Risk began as a side project which was eventually acquired by an end to end financial advice platform.  What started as my first python project and webapp, became a three year journey into financial risk tolerance, psychometrics, SaaS, Django, javascript, devops and everything in between.
 
@@ -15,11 +16,11 @@ Stackup is a financial risk profiling tool which helps to match investments to a
 
 # The stack.
 ### Webapp
-| Language | % | Files | Lines |
+| Language | Lines | Files | % |
 | :--- | ---: | ---: | ---: |
-| Django Template (HTML) | 65% | 153 | 42,035 |
-| Python | 25% | 342 | 16,265 |
-| JavaScript* | 10% | 59 | 6,578 | 
+| Django Template (HTML) | 42,035 | 153 | 65% |
+| Python | 16,265 | 342 |  25% |
+| JavaScript* | 6,578 | 59 | 10% |
 
 *majority is vanilla JS and Jquery, remainder is React.
 
@@ -149,7 +150,7 @@ Features:
 #### White labelling
 **Purpose:** customise client facing materials with brand logos and colours.
 
-Feartures:
+Features:
 - Upon first launch, integration automatically pulls company logo based on user's email address.
 - Based on logo, brand colours are derived to fill a suggested palette.
 - Palette and logo used for survey and reports.
@@ -158,7 +159,7 @@ Feartures:
 #### Custom portfolios
 **Purpose:** allow firms to use their in-house risk profile asset allocations through the app.
 
-Feartures:
+Features:
 - Ability to set risk profile asset allocations (RPAA) for each risk group.
 - RPAA feeds through to Risk Profile report as the comfort portfolio.
 - RPAA is used as initial portfolio on the Past Performance report for returns simulation.
@@ -167,7 +168,7 @@ Feartures:
 #### API & Developer Console
 **Purpose:** developer playground to test the API.
 
-Feartures:
+Features:
 - Endpoints for all major functions with integrations into IRESS Xplan, ROAR Software, Zapier, Wealth360, Salesforce.
 - Webhooks for live event updates.
 - Developer playground to test functionality and response cycles.

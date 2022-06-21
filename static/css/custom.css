@@ -1,3 +1,16 @@
+/* Font */
+h2>.tag{
+        font-size: 16px;
+        display: inline-block;
+        padding-left: 5px;
+        padding-right: 5px;
+        margin-left: 10px;
+        outline: 1px solid black;
+        text-align: center;
+        line-height: 25px;
+        /* position: relative;
+        bottom:7px; */
+    }
 /* TABLES */
 table {
     border-collapse: collapse;
@@ -33,7 +46,7 @@ tbody tr:last-of-type {
 /* Hide all columns except first and last on mobile */
 
 @media only screen and (max-width: 800px) {
-    td:not(:first-child):not(:last-child), th:not(:first-child):not(:last-child) {
+    td:nth-child(n+3), th:nth-child(n+3) {
         display: none;
     }
 }
