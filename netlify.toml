@@ -3,6 +3,6 @@
   command = "hugo"
 
 [build.environment]
-  HUGO_VERSION = "0.80.0"
+  HUGO_VERSION = "0.83.1"
   HUGO_THEME = "hugo-winston-theme"
   HUGO_BASEURL = "/"
