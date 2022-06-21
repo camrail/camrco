@@ -21,3 +21,4 @@ fast forward 5 years, Stackup has been acquired, and I now have a vague idea wha
 
 I'm now working as a Product Development Lead for AMP for the company which acquired Stackup, and given I am not coding for my full-time job anymore I'm using camr.co as my outlet to continue to create and document my learnings.
 
+You can contact me [here](mailto:camjrail@gmail.com).
