@@ -1,6 +1,6 @@
 ---
 title: Stackup Risk
-date: 2020-10-10
+date: 2020-07-10
 description: 'Psychometric Risk Profiling.'
 image: images/stackup_header.png
 tag: personal

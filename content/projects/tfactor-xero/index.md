@@ -1,7 +1,7 @@
 ---
 title: Xero SyncIO
-date: 2020-07-18
-description: 'Xero sync for invoice financing'
+date: 2019-11-15
+description: 'Xero sync for invoice financing.'
 ---
 Invoice financing companies operate by lending against the collateral of their client's invoices.
 This means that they need true and accurate descriptions of their client's position, which is historically

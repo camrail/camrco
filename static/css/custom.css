@@ -5,11 +5,8 @@ h2>.tag{
         padding-left: 5px;
         padding-right: 5px;
         margin-left: 10px;
-        outline: 1px solid black;
         text-align: center;
         line-height: 25px;
-        /* position: relative;
-        bottom:7px; */
     }
 /* TABLES */
 table {

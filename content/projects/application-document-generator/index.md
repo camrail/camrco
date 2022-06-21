@@ -1,7 +1,7 @@
 ---
 title: Lending Contract Generator
-date: 2020-07-18
-description: 'Xero sync for invoice financing'
+date: 2020-09-05
+description: 'New loan contract and other artifact generation.'
 ---
 In highly regulated industries many processes are still "paper-based" even if they are digitally delivered.
 That means that even though the document might go back and forth via email, it still needs to be edited, reviewed, generated
