@@ -10,7 +10,7 @@ menu:
 
 Hi - I'm Cam and I live in Sydney, Australia.  I'm a bit late to the coding party which means I started learning all things development when I was towards 30.  But, this isn't my first gig.  
 
-I've been a highly motivated creator since I was a wee lad, having worked my teen years in event lighting design and then founding a video production company called [Kaptivate](https://vimeo.com/44019418).
+I've been a highly motivated creator since I was a wee lad, having spent my teen years in event lighting design and then founding a video production company called [Kaptivate](https://vimeo.com/44019418).
 
 After being encouraged to get a real job I worked the next ten years as a stock trader, eventually ending up on the proprietary trading desk of an Investment Bank in London.  I traded a variety of instruments and poured years into becoming a Chartered Financial Analyst, but it started to all look the same after a while.  
 

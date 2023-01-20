@@ -47,13 +47,46 @@ All AWS
 - Product Management
 - Devops
 
-# Key Components
+# Key Components | help-seeker users
+## Onboarding funnel
+Help seekers are directed into a short questionnaire
+which collects information so that the system can find
+a good match with a psychologist.
+
+We start by asking their preferred mode of session:
+![Start Funnel](funnel.png)
+
+And proceed with additional questions to find the right area:
+![Location Question](location.png)
+
+## Match generation
+Once we have enough information about the help seeker,
+we can feed it into our matching algorithm
+(which at the moment is pretty basic).
+
+![Start Funnel](gen_matches.png)
+
+## Selection and booking
+We then allow the client to select from their matches
+and book directly on the platform.
+
+![Start Funnel](booking.png)
+# Key Components | help-provider users
 ## Listings
 Main page in the app is the listings view which by default sorts help professionals by their availability.
 Each listing is shown that meets the current filter criteria, with user uploaded profile pictures displayed
 or a generated gravatar if no user uploaded picture is available.
 
 ![Listings](listings.png)
+
+## Suggested and advanced searching
+Advanced search is at the core of the professional offering given that these
+users are aware of the technical terms of what they are looking for.
+
+To cut through this complexity, suggested searches give users a base that they can then tweak
+as required to find what they are looking for.
+
+![Listings](search.png)
 
 ## Invitations flow
 As this is an invite-only network, new help professionals are invited by their peers via the platform.
